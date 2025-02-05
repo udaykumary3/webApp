@@ -30,7 +30,7 @@ window.rudderAnalyticsMount()}window.rudderanalytics.load("2Xx5eab4YxSb0TMDi6UDQ
   }, n[i].p = e; n[i].c = co;
   var r = t.createElement('script'); r.async = !0, r.src = a + '?a=' + e;
   var c = t.getElementsByTagName('script')[0]; c.parentNode.insertBefore(r, c)
-})(window, document, 'https://web-sdk-eu.aptrinsic.com/api/aptrinsic.js', 'AP-KXTRCUHJDHLL-2');
+})(window, document, 'https://web.aptrinsic.com/api/aptrinsic.js', 'AP-DJAIXZ8CPE6M-2');
 
 
 (function () {
